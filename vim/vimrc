@@ -150,7 +150,7 @@ let g:vimwiki_list = [{'path': '~/vimwiki/', 'auto_tags': 1, 'ext': '.wiki',
           \ 'template_ext': '.tpl',
           \ 'nested_syntaxes':  {'python': 'python', 'c++': 'cpp'}}]
 let g:vimwiki_conceallevel = 1
-let g:vimwiki_folding = ''
+let g:vimwiki_folding = 'custom'
 let g:vimwiki_autowriteall = 0
 
 
